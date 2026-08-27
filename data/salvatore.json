@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": "ab3b7767982a5867ae597c5e",
+      "email": "admin@example.com",
+      "nickname": "Admin",
+      "passwordHash": "$2a$10$gZ4LQtnGTk1fsuiy/LU.c.bWHwg3qnrw8RpP/n4HAwPWGvstJV1QS",
+      "role": "admin",
+      "active": true,
+      "verified": true,
+      "createdAt": "2026-08-27T21:45:05.401Z"
+    }
+  ],
+  "channels": [],
+  "videos": [],
+  "comments": [],
+  "subscriptions": [],
+  "likes": []
+}
